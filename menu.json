@@ -1,0 +1,464 @@
+[
+  {
+    "categoria": "Caffetteria",
+    "elementi": [
+      {
+        "nome": "Caffè",
+        "prezzo_banco": "€1,20",
+        "prezzo_tavolo": "€1,40",
+        "immagine": "images/caffe.jpeg"
+      },
+      {
+        "nome": "Caffè Panna",
+        "prezzo_banco": "€1,50",
+        "prezzo_tavolo": "€2,00",
+        "immagine": "images/caffe_panna.jpeg"
+      },
+      {
+        "nome": "Caffè Corretto",
+        "prezzo_banco": "€1,60",
+        "prezzo_tavolo": "€2,00",
+        "immagine": "images/caffe_corretto.jpeg"
+      },
+      {
+        "nome": "Caffè Orzo",
+        "prezzo_banco": "€1,40",
+        "prezzo_tavolo": "€1,60",
+        "immagine": "images/caffe_orzo.jpeg"
+      },
+      {
+        "nome": "Caffè Dek",
+        "prezzo_banco": "€1,40",
+        "prezzo_tavolo": "€1,60",
+        "immagine": "images/caffe_dek.jpeg"
+      },
+      {
+        "nome": "Cappuccino",
+        "prezzo_banco": "€1,60",
+        "prezzo_tavolo": "€1,90",
+        "immagine": "images/cappuccino.jpeg"
+      },
+      {
+        "nome": "Mokaccino",
+        "prezzo_banco": "€1,60",
+        "prezzo_tavolo": "€1,90",
+        "immagine": "images/mokaccino.jpeg"
+      },
+      {
+        "nome": "Cioccolata",
+        "prezzo_banco": "€2,50",
+        "prezzo_tavolo": "€3,00",
+        "immagine": "images/cioccolata.jpeg"
+      },
+      {
+        "nome": "Ciocco Panna",
+        "prezzo_banco": "€3,00",
+        "prezzo_tavolo": "€3,50",
+        "immagine": "images/ciocco_panna.jpeg"
+      },
+      {
+        "nome": "Latte Macchiato",
+        "prezzo_banco": "€1,60",
+        "prezzo_tavolo": "€1,90",
+        "immagine": "images/latte_macchiato.jpeg"
+      },
+      {
+        "nome": "Caffè Shakerato",
+        "prezzo_banco": "€3,00",
+        "prezzo_tavolo": "€3,50",
+        "immagine": "images/caffe_shakerato.jpeg"
+      },
+      {
+        "nome": "Latte Bianco",
+        "prezzo_banco": "€1,20",
+        "prezzo_tavolo": "€1,50",
+        "immagine": "images/latte_bianco.jpeg"
+      },
+      {
+        "nome": "Caffè Ginseng",
+        "prezzo_banco": "€1,50",
+        "prezzo_tavolo": "€1,80",
+        "immagine": "images/caffe_ginseng.jpeg"
+      },
+      {
+        "nome": "The Infusi",
+        "prezzo_banco": "€2,50",
+        "prezzo_tavolo": "€3,00",
+        "immagine": "images/the.jpeg"
+      }
+    ]
+  },
+  {
+    "categoria": "Bibite e Succhi",
+    "elementi": [
+      {
+        "nome": "Succhi di Frutta",
+        "prezzo_banco": "€2,50",
+        "prezzo_tavolo": "€3,00",
+        "immagine": "images/succo.jpeg"
+      },
+      {
+        "nome": "Red Bull",
+        "prezzo_banco": "€3,50",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/redbull.jpeg"
+      },
+      {
+        "nome": "Spremute",
+        "prezzo_banco": "€3,50",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/spremute.jpeg"
+      },
+      {
+        "nome": "Bibite Lattina",
+        "prezzo_banco": "€3,50",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/bibite.jpeg"
+      },
+      {
+        "nome": "Sciroppi Fabbri",
+        "prezzo_banco": "€2,50",
+        "prezzo_tavolo": "€3,00",
+        "immagine": "images/sciroppi.jpeg"
+      },
+      {
+        "nome": "Spuma ",
+        "prezzo_banco": "€1,00",
+        "prezzo_tavolo": "€1,50",
+        "immagine": "images/spuma.jpeg"
+      },
+      {
+        "nome": "Acqua Bicchiere",
+        "prezzo_banco": "€0,50",
+        "prezzo_tavolo": "€0,80",
+        "immagine": "images/acqua.jpeg"
+      },
+      {
+        "nome": "Acqua 1/2 Litero",
+        "prezzo_banco": "€1,20",
+        "prezzo_tavolo": "€1,50",
+        "immagine": "images/acqua1.jpeg"
+      }
+    ]
+  },
+  {
+    "categoria": "Aperitivi",
+    "elementi": [
+      {
+        "nome": "Pastis",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/pastis.jpeg"
+      },
+      {
+        "nome": "Della Casa Alcol",
+        "prezzo_banco": "€7,00",
+        "prezzo_tavolo": "€7,00",
+        "immagine": "images/alcol.jpg"
+      },
+      {
+        "nome": "Della Casa Analc",
+        "prezzo_banco": "€6,00",
+        "prezzo_tavolo": "€6,00",
+        "immagine": "images/analc.jpg"
+      },
+      {
+        "nome": "Martini",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/martini.jpeg"
+      },
+      {
+        "nome": "Campari",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/campari.jpeg"
+      },
+      {
+        "nome": "Aperol",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/aperol.jpeg"
+      },
+      {
+        "nome": "Sanbitter",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/sanbitter.jpeg"
+      },
+      {
+        "nome": "Campari Soda",
+        "prezzo_banco": "€4,50",
+        "prezzo_tavolo": "€4,50",
+        "immagine": "images/camparisoda.jpeg"
+      },
+      {
+        "nome": "Aperol Spritz",
+        "prezzo_banco": "€6,00",
+        "prezzo_tavolo": "€6,00",
+        "immagine": "images/spritz.jpeg"
+      },
+      {
+        "nome": "Crodino",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/crodino.jpeg"
+      },
+      {
+        "nome": "Negroni",
+        "prezzo_banco": "€6,00",
+        "prezzo_tavolo": "€6,00",
+        "immagine": "images/negroni.jpeg"
+      },
+      {
+        "nome": "Americano",
+        "prezzo_banco": "€6,00",
+        "prezzo_tavolo": "€6,00",
+        "immagine": "images/americano.jpeg"
+      },
+      {
+        "nome": "Spumante",
+        "prezzo_banco": "€4,50",
+        "prezzo_tavolo": "€4,50",
+        "immagine": "images/spumante.jpeg"
+      },
+      {
+        "nome": "Vino Rosso",
+        "prezzo_banco": "€4,50",
+        "prezzo_tavolo": "€4,50",
+        "immagine": "images/rosso.jpeg"
+      },
+      {
+        "nome": "Vino Bianco",
+        "prezzo_banco": "€4,50",
+        "prezzo_tavolo": "€4,50",
+        "immagine": "images/bianco.jpeg"
+      }
+    ]
+  },
+  {
+    "categoria": "Cocktail e Birre",
+    "elementi": [
+      {
+        "nome": "Campari Orange",
+        "prezzo_banco": "€7,00",
+        "prezzo_tavolo": "€7,00",
+        "immagine": "images/orange.jpeg"
+      },
+      {
+        "nome": "Rum Cola",
+        "prezzo_banco": "€7,00",
+        "prezzo_tavolo": "€7,00",
+        "immagine": "images/rum.jpeg"
+      },
+      {
+        "nome": "Gin Tonic",
+        "prezzo_banco": "€7,00",
+        "prezzo_tavolo": "€7,00",
+        "immagine": "images/tonic.jpeg"
+      },
+      {
+        "nome": "Wodka Lemmon",
+        "prezzo_banco": "€7,00",
+        "prezzo_tavolo": "€7,00",
+        "immagine": "images/wodkal.jpeg"
+      },
+      {
+        "nome": "Becks",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/becks.jpeg"
+      },
+      {
+        "nome": "Ceres",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/ceres.jpeg"
+      },
+      {
+        "nome": "Corona",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/corona.jpeg"
+      },
+      {
+        "nome": "Tennent",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/tennent.jpeg"
+      },
+      {
+        "nome": "Spina Piccola",
+        "prezzo_banco": "€3,50",
+        "prezzo_tavolo": "€3,50",
+        "immagine": "images/spiccola.jpeg"
+      },
+      {
+        "nome": "Spina Grande",
+        "prezzo_banco": "€6,00",
+        "prezzo_tavolo": "€6,00",
+        "immagine": "images/sgrande.jpeg"
+      }
+    ]
+  },
+  {
+    "categoria": "Amari e Liquori",
+    "elementi": [
+      {
+        "nome": "Amari ",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/amaro.jpeg"
+      },
+      {
+        "nome": "Wodka ",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/wodka.jpeg"
+      },
+      {
+        "nome": "Limoncino",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/limoncino.jpeg"
+      },
+      {
+        "nome": "Crema di whiski",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/crema.jpeg"
+      },
+      {
+        "nome": "Grand Marnier",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/marnier.jpeg"
+      },
+      {
+        "nome": "Brandy",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/brandy.jpeg"
+      },
+      {
+        "nome": "Courvosier",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/courvosier.jpeg"
+      },
+      {
+        "nome": "Glen Grant",
+        "prezzo_banco": "€4,50",
+        "prezzo_tavolo": "€4,50",
+        "immagine": "images/glen.jpeg"
+      },
+      {
+        "nome": "J&B",
+        "prezzo_banco": "€4,50",
+        "prezzo_tavolo": "€4,50",
+        "immagine": "images/jb.jpeg"
+      },
+      {
+        "nome": "Ballantine's",
+        "prezzo_banco": "€4,50",
+        "prezzo_tavolo": "€4,50",
+        "immagine": "images/ballantine.jpeg"
+      },
+      {
+        "nome": "J.Walker",
+        "prezzo_banco": "€4,50",
+        "prezzo_tavolo": "€4,50",
+        "immagine": "images/walker.jpeg"
+      },
+      {
+        "nome": "Chivas Regal",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/regal.jpeg"
+      },
+      {
+        "nome": "J.Danyels",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/danyels.jpeg"
+      },
+      {
+        "nome": "Grappa",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/grappa.jpeg"
+      },
+      {
+        "nome": "Punch",
+        "prezzo_banco": "€4,00",
+        "prezzo_tavolo": "€4,00",
+        "immagine": "images/punch.jpeg"
+      }
+    ]
+  },
+  {
+    "categoria": "Alimenti",
+    "elementi": [
+      {
+        "nome": "Toast",
+        "prezzo_banco": "€4,50",
+        "prezzo_tavolo": "€4,50",
+        "immagine": "images/toast.jpeg"
+      },
+      {
+        "nome": "Toast Farciti",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/panino.jpeg"
+      },
+      {
+        "nome": "Hot Dog",
+        "prezzo_banco": "€5,00",
+        "prezzo_tavolo": "€5,00",
+        "immagine": "images/hotdog.jpeg"
+      },
+      {
+        "nome": "Salsiccia",
+        "prezzo_banco": "€6,00",
+        "prezzo_tavolo": "€6,00",
+        "immagine": "images/salsiccia.jpeg"
+      },
+      {
+        "nome": "Panini",
+        "prezzo_banco": "Partire da €4,50",
+        "prezzo_tavolo": "Partire da €4,50",
+        "immagine": "images/panini.jpg"
+      },
+      {
+        "nome": "Dolci",
+        "prezzo_banco": "€2,00/€2,50",
+        "prezzo_tavolo": "€2,00/€2,50",
+        "immagine": "images/dolci.jpeg"
+      },
+      {
+        "nome": "Brioches",
+        "prezzo_banco": "€1,40",
+        "prezzo_tavolo": "€1,40",
+        "immagine": "images/brioches.jpg"
+      },
+      {
+        "nome": "Piadina",
+        "prezzo_banco": "€6,00",
+        "prezzo_tavolo": "€6,00",
+        "immagine": "images/piadina.jpg"
+      },
+      {
+        "nome": "Focaccia",
+        "prezzo_banco": "€1,30",
+        "prezzo_tavolo": "€1,30",
+        "immagine": "images/focaccia.jpg"
+      },
+      {
+        "nome": "Insalate",
+        "prezzo_banco": "Partire da €6,00",
+        "prezzo_tavolo": "Partire da €6,00",
+        "immagine": "images/insalate.jpg"
+      }
+    ]
+  }
+]
