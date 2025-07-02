@@ -111,8 +111,8 @@
       },
       {
         "nome": "Bibite Lattina",
-        "prezzo_banco": "€3,50",
-        "prezzo_tavolo": "€4,00",
+        "prezzo_banco": "€3,00",
+        "prezzo_tavolo": "€3,50",
         "immagine": "images/bibite.jpeg"
       },
       {
@@ -418,7 +418,7 @@
         "immagine": "images/hotdog.jpeg"
       },
       {
-        "nome": "Panino cotoletta *prodotto surgelato* ",
+        "nome": "Panino cotoletta * ",
         "prezzo_banco": "€6,00",
         "prezzo_tavolo": "€6,00",
         "immagine": "images/cotoletta.jpg"
@@ -455,8 +455,8 @@
       },
       {
         "nome": "Focaccia",
-        "prezzo_banco": "€1,30",
-        "prezzo_tavolo": "€1,30",
+        "prezzo_banco": "€1,30/1,50",
+        "prezzo_tavolo": "€1,30/1,50",
         "immagine": "images/focaccia.jpg"
       },
       {
